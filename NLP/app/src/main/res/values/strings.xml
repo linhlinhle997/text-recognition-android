@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NLP</string>
+    <string name="txtMessage">...</string>
+    <string name="permission_camera_rationale">Truy cap vao may anh</string>
+</resources>
